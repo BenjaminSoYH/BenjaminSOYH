@@ -7,7 +7,10 @@ Bachelors at University of Washington, studying Applied Computing
 
 ## Experience
 - Developer at SEAL
-- Developer @ WordPlayPen
+  -did something
+- Developer at WordPlayPen
+    -did something
+
   
 
 ## Projects
