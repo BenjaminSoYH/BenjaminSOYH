@@ -1,6 +1,6 @@
 ## Benjamin So
 
-## Hi there!
+Hi there!
 
 ## Education
 
